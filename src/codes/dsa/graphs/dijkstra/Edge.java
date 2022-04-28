@@ -2,7 +2,7 @@ package codes.dsa.graphs.dijkstra;
 
 public class Edge {
 
-    private double weight ;
+    private double weight ; // Positive
     private Vertex startVertex;
     private Vertex targetVertex;
 
